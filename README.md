@@ -34,5 +34,3 @@ MediaPlayer
 NamePhoneListView (使用 SQLite)
 
 JSONWebService
-
-Firebase-會員登入
