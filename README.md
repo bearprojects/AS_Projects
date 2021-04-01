@@ -1,4 +1,4 @@
-# AS_Projects_School
+# Android_App_Projects_School
 
 * 計算BMI
 
