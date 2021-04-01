@@ -1,5 +1,4 @@
 # AS_Projects_School
-Android Studio Projects
 
 * 計算BMI
 
